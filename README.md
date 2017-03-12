@@ -19,7 +19,17 @@ post90
  ③android-Model 包名地址
  
  ---静静的等待model生成就好了
-
+ 
+ 原理：
+ 
+ 1.将json的key集合记录
+ 
+ 2.根据json特征 {、[、{[。判断属于，默认String类型、新model类型、listModel类型
+ 
+ 3.根据提供的参数，在桌面生成需要的文件
+ 
+ PS:目前只有android+IOS的model
+ 
 # 二.目前就一个，等更新
 
 有建议，联系我 QQ：175406226
