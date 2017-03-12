@@ -6,7 +6,7 @@ post90
  
  com.developbuildtools.RunningMain ---执行类
 
-一.实现json转成model
+# 一.实现json转成model
 
  DevelopBuildTools\src\com\developbuildtools\files\json2model\JsonToFileTools.java
  
@@ -21,5 +21,5 @@ post90
  ---静静的等待model生成就好了
 
 二.目前就一个，等更新
- 有建议，联系我
- QQ：175406226
+
+有建议，联系我 QQ：175406226
